@@ -85,7 +85,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-    outline-color: #d48a6e
+    outline-color: #6ecdd4
 }
 
 @media (min-width:992px) {
@@ -173,3 +173,18 @@ a:active, a:focus, a:hover {
 .lang{
     margin-bottom: 1rem!important;
 }
+
+.btn-primary{
+    background-color:#439A86; 
+    border-color: #439A86;
+}
+
+.w-100 .h5{
+    color: #868e96
+}
+
+.btn-primary:hover{
+    background-color: #007991;
+    border-color: #007991;
+}
+
